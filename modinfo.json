@@ -1,0 +1,11 @@
+{
+    "type": "content",
+    "modid": "convenientrecipes",
+    "name": "Convenient Recipes",
+    "description": "Reverse crafting recipes that let you reclaim building materials by breaking them down with the appropriate tools.",
+    "authors": [ "wajee" ],
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.19.0"
+    }
+}

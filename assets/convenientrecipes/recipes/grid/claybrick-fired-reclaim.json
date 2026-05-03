@@ -1,0 +1,29 @@
+[
+    {
+        "ingredientPattern": "SS_,SS_,TH_",
+        "ingredients": {
+            "S": {
+                "type": "block",
+                "code": "game:claybrickslab-fired",
+                "quantity": 4
+            },
+            "T": {
+                "type": "item",
+                "code": "game:chisel-*",
+                "isTool": true
+            },
+            "H": {
+                "type": "item",
+                "code": "game:hammer-*",
+                "isTool": true
+            }
+        },
+        "width": 3,
+        "height": 3,
+        "output": {
+            "type": "block",
+            "code": "game:claybrick-fired",
+            "quantity": 5
+        }
+    }
+]
