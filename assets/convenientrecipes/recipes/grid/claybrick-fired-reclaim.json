@@ -4,8 +4,8 @@
         "ingredients": {
             "S": {
                 "type": "block",
-                "code": "game:claybrickslab-fired",
-                "quantity": 4
+                "code": "game:brickslabs-fire-*",
+                "quantity": 1
             },
             "T": {
                 "type": "item",
@@ -21,8 +21,8 @@
         "width": 3,
         "height": 3,
         "output": {
-            "type": "block",
-            "code": "game:claybrick-fired",
+            "type": "item",
+            "code": "game:burnedbrick-fire",
             "quantity": 5
         }
     }
